@@ -43,5 +43,5 @@ The `slot_machine.py` script contains the code for simulating the slot machine g
 2. Open a terminal and navigate to the repository's directory.
 3. Run the command: `python slot_machine.py`
 
-Feel free to explore the code and make modifications as you learn and improve your Python skills!
+
 
